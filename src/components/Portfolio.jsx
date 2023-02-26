@@ -71,7 +71,7 @@ const Portfolio = () => {
                 {/*<button className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105">
                   Demo
           </button>*/}
-                <a href={link} target="_blank">
+                <a href={link} target="_blank" rel="noreferrer">
                 <button className="px-6 py-3 m-4 duration-200 hover:scale-105" >
                   Code
                 </button>
